@@ -2,9 +2,13 @@
   "version": "1.1",
   "file": "NexusAimV2.Version.1.1.Client.zip",
   "changes": [
-    "Improved automatic update system.",
-    "Added release notes to the update window.",
-    "Improved tracking stability.",
-    "Fixed minor interface issues."
+    "Improved tracking stability, precision and target response.",
+    "Reworked tracking logic with a cleaner persistent target estimator for smoother and more consistent movement.",
+    "Improved long-range tracking precision and latency compensation.",
+    "Optimized Titan Two output with a dedicated low-latency 1000 Hz transmission path.",
+    "Improved PS4 and PS5 controller support, including touchpad input.",
+    "Improved native TensorRT performance with CUDA Graph support.",
+    "Added automatic GitHub updates with update confirmation and release notes.",
+    "General stability and performance improvements."
   ]
 }
