@@ -1,4 +1,10 @@
 {
   "version": "1.1",
-  "file": "NexusAimV2.Version.1.0.Client.zip"
+  "file": "NexusAimV2.Version.1.1.Client.zip",
+  "changes": [
+    "Improved automatic update system.",
+    "Added release notes to the update window.",
+    "Improved tracking stability.",
+    "Fixed minor interface issues."
+  ]
 }
