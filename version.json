@@ -1,14 +1,16 @@
 {
-  "version": "1.1",
-  "file": "NexusAimV2.Version.1.1.Client.zip",
-  "changes":[
-    "Improved tracking stability, precision and target response.",
-    "Reworked tracking logic with a cleaner persistent target estimator for smoother and more consistent movement.",
-    "Improved long-range tracking precision and latency compensation.",
-    "Optimized Titan Two output with a dedicated low-latency 1000 Hz transmission path.",
-    "Improved PS4 and PS5 controller support, including touchpad input.",
-    "Improved native TensorRT performance with CUDA Graph support.",
-    "Added automatic GitHub updates with update confirmation and release notes.",
-    "General stability and performance improvements."
+  "version": "1.2",
+  "file": "NexusAimV2_Client.zip",
+  "changes": [
+    "Improved overall performance, detection speed and system responsiveness.",
+    "Improved tracking stability and smoother target acquisition.",
+    "Optimized resource usage for better performance while gaming.",
+    "Improved CUDA, DirectML and TensorRT compatibility and performance.",
+    "NexusAimV2 is now fully adapted for use with the Titan Two GPC.",
+    "Added configuration information directly inside the Titan Two GPC.",
+    "Updated setting activation indicators: enabled options now appear green with 'Enabled', while disabled options appear grey with 'Disabled'.",
+    "Migrated to a new server infrastructure for faster response times and improved security.",
+    "Improved license system security and added full support for trial licenses.",
+    "General stability, compatibility and performance improvements."
   ]
 }
